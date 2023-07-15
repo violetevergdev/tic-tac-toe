@@ -1,2 +1,0 @@
-*{box-sizing:border-box}body{background:#6183ceb7;font-family:sans-serif;margin:20px}.board{align-items:center;display:flex;flex-direction:column;margin-top:45%}.square{background:#fff;border:2px dashed #aec45d;color:#ad77b6;float:left;font-size:50px;font-weight:700;height:70px;line-height:34px;margin-right:-1px;margin-top:-1px;padding:0;text-align:center;width:70px}.board-row:after{clear:both;content:"";display:table}.status{font-size:30px;margin-bottom:10px}.game{display:flex;flex-direction:row}.game-info{margin-left:20px}
-/*# sourceMappingURL=main.e4bd9fb7.css.map*/
